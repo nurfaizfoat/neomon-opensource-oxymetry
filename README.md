@@ -1,2 +1,2 @@
-# neomon-opensource-oxymetry
+# NEOMON - Neonate Monitor
 Neonate Monitor atau secara ringkasnya NEOMON adalah sejenis peranti wearable open source yang boleh digunakan untuk membaca vital signs bayi yang baru lahir.   Suhu badan, kadar degupan jantung (BPM) dan kadar oksigen dalam darah (SPO2) adalah 3 vital signs utama yang perlu diambil daripada bayi sejurus selepas proses kelahiran selesai.  Untuk memastikan harga kos NEOMON tidak melebihi RM300. Alat ini direka dengan memadankan off-the-shelve microcontroller iaitu ESP8266, bateri lithium-ion, sensor suhu dan juga sensor IR (MAX30100).
