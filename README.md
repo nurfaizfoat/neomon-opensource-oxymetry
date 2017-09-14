@@ -8,17 +8,19 @@
 
 Being an open source project, NEOMON is designed to be easy reproduce-able by anyone interested. Use cases are targeted for poor, hard-to-reach communities and by low-skilled care providers. i.e Conflict Zone, War-torn countries, Disaster Area. Its Bill of Materials (BOM) are also has to be kept reasonable (MYR300 @ USD$75) each.
 
-## Overview
+## :pushpin: Overview
 
 * [Bill of Materials](https://www.findchips.com/u/list/46405-neomon-neonate-monitor-pulse-oximetry)
 * [Release Notes](https://github.com/nurfaizfoat/neomon-opensource-oxymetry/releases)
 * [Gallery](https://www)
 * [Wiki](https://github.com/nurfaizfoat/neomon-opensource-oxymetry/wiki)
 
-## Getting Started & Prerequisites
+## :pushpin: Getting Started & Prerequisites
 Running NEOMON on an ESP8266 MCU is the quickest way to get you hand on this project. The easiest way to kickstart your development is to get Arduino Environment running in your machine. Our friend at Arduino.cc had created a very concise tutorial on this LINK.
 
 Read more on Getting Started in the Wiki
 
-## Taking Part and Contribute
-NEOMON is open for all to contribute. You could be anyone. Download the latest release and you're ready to contribut. It can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine. However, all contributions must adhere to the cause of NEOMON. 
+## :pushpin: Taking Part and Contribute
+NEOMON is open for all to contribute. You could be anyone. Download the latest release and you're ready to contribute. It can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine. However, all contributions must adhere to the cause of NEOMON. 
+
+[![How to Contribute to Open Source?](https://opensource.guide/how-to-contribute/)
