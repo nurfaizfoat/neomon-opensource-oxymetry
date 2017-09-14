@@ -1,7 +1,8 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+
+![Alt text](https://i.imgur.com/zS2aS2z.jpg "NEOMON on Breadboard")
 # NEOMON
 ### Open Source Neonate Monitor
-![Alt text](https://i.imgur.com/zS2aS2z.jpg "NEOMON on Breadboard")
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
 **NEOMON** is an ESP8266 (Wireless MCU) and MAX30100 (IR Sensor) powered open source wearable-ready device. Its primary usage is to monitor newborn vital signs namely Heartbeat (BPM), SpO2 (Blood Oxygen Saturation) and also Body Temperature (°C/°F). These vital signs are the first line in pneumonia diagnosis and treatment in newborn babies.
 
