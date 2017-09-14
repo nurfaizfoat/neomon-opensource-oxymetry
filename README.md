@@ -7,7 +7,7 @@
 Being an open source project, NEOMON is designed to be easy reproduce-able by anyone interested. Use cases are primarily targeted for poor, hard-to-reach communities and by low-skilled care providers. i.e Conflict Zone, War-torn countries. Its Bill of Materials (BOM) are also has to be kept reasonable (MYR300 @ USD$75).
 ## Overview
 
-* [API Reference](https://github.com/d3/d3/blob/master/API.md)
+* [Bill of Materials](https://github.com/d3/d3/blob/master/API.md)
 * [Release Notes](https://github.com/d3/d3/releases)
 * [Gallery](https://github.com/d3/d3/wiki/Gallery)
 * [Examples](https://bl.ocks.org/mbostock)
