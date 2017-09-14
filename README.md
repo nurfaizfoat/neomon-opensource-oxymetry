@@ -23,4 +23,4 @@ Read more on Getting Started in the Wiki
 ## :pushpin: Taking Part and Contribute
 NEOMON is open for all to contribute. You could be anyone. Download the latest release and you're ready to contribute. It can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine. However, all contributions must adhere to the cause of NEOMON. 
 
-[![How to Contribute to Open Source?](https://opensource.guide/how-to-contribute/)
+[How to Contribute to Open Source?](https://opensource.guide/how-to-contribute/)
