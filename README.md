@@ -18,11 +18,10 @@ Being an open source project, NEOMON is designed to be easy reproduce-able by an
 * [Wiki](https://github.com/nurfaizfoat/neomon-opensource-oxymetry/wiki)
 
 ## Getting Started
+Running NEOMON on an ESP8266 MCU is the quickest way to get you hand on this project. The easiest way to kickstart your development is to get Arduino Environment running in your machine. Our friend at Arduino.cc had created a very concise tutorial on this LINK.
 
-Start collecting all the part
-   If you have a reliable Internet connection, you should use the online IDE (Arduino Web Editor). It will allow you to save your sketches in the cloud, having them available from any device and backed up. You will always have the most up-to-date version of the IDE without the need to install updates or community generated libraries.
+Collect all the goods
 
-2. If you would rather work offline, you should use the latest version of the desktop IDE
 ## Sketch
 
 
