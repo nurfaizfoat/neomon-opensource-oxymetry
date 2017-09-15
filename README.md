@@ -16,9 +16,9 @@ Being an open source project, NEOMON is designed to be easy reproduce-able by an
 * [Wiki](https://github.com/nurfaizfoat/neomon-opensource-oxymetry/wiki)
 
 ## :pushpin: Getting Started & Prerequisites
-Running NEOMON on an ESP8266 MCU is the quickest way to get you hand on this project. The easiest way to kickstart your development is to get Arduino Environment running in your machine. Our friend at Arduino.cc had created a very concise tutorial on this LINK.
+Running NEOMON on an ESP8266 MCU is the quickest way to get you hand on this project. The easiest way to kickstart your development is to get Arduino Environment running in your machine. Our friend at Arduino.cc had created a very concise tutorial on this [LINK](https://www.arduino.cc/en/Guide/ArduinoUno)
 
-Read more on Getting Started in the Wiki
+Read more on Getting Started in the [Wiki](https://github.com/nurfaizfoat/neomon-opensource-oxymetry/wiki)
 
 ## :pushpin: Taking Part and Contribute
 NEOMON is open for all to contribute. You could be anyone. Download the latest release and you're ready to contribute. It can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine. However, all contributions must adhere to the cause of NEOMON. 
