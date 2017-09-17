@@ -6,7 +6,7 @@
 
 **NEOMON** is an ESP8266 (Wireless MCU) and MAX30100 (IR Sensor) powered open source wearable-ready device. Its primary usage is to monitor newborn vital signs namely Heartbeat (:heartbeat:BPM), SpO2 (:syringe:Blood Oxygen Saturation) and also Body Temperature (:snowflake:°C/°F). These vital signs are the first line in pneumonia diagnosis and treatment in newborn babies. It can also be configured to act as a realtime oximeter for your newborn during sleeping hour to prevent SIDS (Sudden Infant Death).
 
-Being an open source project, NEOMON is designed to be easy reproduce-able by anyone interested. Use cases are targeted for poor, hard-to-reach communities and by low-skilled care providers. i.e Conflict Zone, War-torn countries, Disaster Area. Its Bill of Materials (BOM) are also has to be kept reasonable (MYR300 @ USD$75) each.
+Being an open source project, NEOMON is designed to be easy reproduce-able by anyone interested. Use cases are targeted for poor, hard-to-reach communities and by low-skilled care providers. i.e Conflict Zone, War-torn countries, Disaster Area. Its Bill of Materials (BOM) are also has to be kept reasonable (MYR100 @ USD$24) each.
 
 ## :pushpin: Overview
 
