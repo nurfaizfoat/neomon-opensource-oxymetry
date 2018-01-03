@@ -9,11 +9,10 @@
 Being an open source project, NEOMON is designed to be easy reproduce-able by anyone interested. It gives private persons, educational institutes or companies, access to a portable, affordable and customizable oxymetry plattform. Use cases are targeted for poor, hard-to-reach communities and by low-skilled care providers. i.e Conflict Zone, War-torn countries, Disaster Area. Its Bill of Materials (BOM) are also has to be kept reasonable (MYR100 @ USD$24) each.
 
 
-
-
-
-*Latest Build 15/10/2017*
+*Latest Build 3/1/2018*
 ![NEOMON latest build](https://i.imgur.com/vebr8jY.jpg "NEOMON latest build")
+![NEOMON Cloud Implementation](https://imgur.com/mCI8nUA "NEOMON Cloud Implementation")
+
 
 ## :pushpin: Overview
 
