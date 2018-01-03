@@ -11,7 +11,7 @@ Being an open source project, NEOMON is designed to be easy reproduce-able by an
 
 *Latest Build 3/1/2018*
 ![NEOMON latest build](https://i.imgur.com/vebr8jY.jpg "NEOMON latest build")
-![NEOMON Cloud Implementation](https://imgur.com/mCI8nUA "NEOMON Cloud Implementation")
+![NEOMON Cloud Implementation](https://i.imgur.com/mCI8nUA.png "NEOMON Cloud Implementation")
 
 
 ## :pushpin: Overview
