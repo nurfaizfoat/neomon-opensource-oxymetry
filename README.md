@@ -17,8 +17,6 @@ Being an open source project, NEOMON is designed to be easy reproduce-able by an
 ## :pushpin: Overview
 
 * [Bill of Materials](https://www.findchips.com/u/list/46405-neomon-neonate-monitor-pulse-oximetry)
-* [Release Notes](https://github.com/nurfaizfoat/neomon-opensource-oxymetry/releases)
-* [Gallery](https://www)
 * [Wiki](https://github.com/nurfaizfoat/neomon-opensource-oxymetry/wiki)
 
 ## :pushpin: Getting Started & Prerequisites
